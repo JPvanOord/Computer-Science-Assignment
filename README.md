@@ -1,3 +1,6 @@
+"Programming Buddy" = Tim Rietveld
+
+
 Assignment for the MSc Econometrics course "Computer Science For Business Analytics (FEM21037)" from the Erasmus University of Rotterdam. The project takes a close look at duplicate detection using data from the file "TVs-all-merged.json" containing information of 1624 online advertisements for televisions. The data is pre-processed using Locality-Sensitive Hashing (LSH) to reduce the number of comparisons to be made. The Jaccard measure is used to compute the similarity between the titles of products and clustering based on a threshold value is applied for duplicate detection. 
 
 The Python code in this github is structured as follows:
@@ -15,3 +18,4 @@ The Python code in this github is structured as follows:
 How to use code:
 1. Run the code until the graphs
 2. Run the graphs one at a time for a better overview
+
