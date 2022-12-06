@@ -11,3 +11,7 @@ The Python code in this github is structured as follows:
 7. Function for making a dissimilarity matrix based on jaccard similarity if pair is candidate, shop is different, brand and resolution are the same otherwise dissimilarity = 1000
 8. Function for duplicate detection via clustering
 9. Final results
+
+How to use code:
+1. Run the code until the graphs
+2. Run the graphs one at a time for a better overview
